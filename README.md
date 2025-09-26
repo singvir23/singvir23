@@ -6,12 +6,12 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -22,31 +22,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Viraaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=singvir23&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singvir23&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=singvir23&theme=radical&border_radius=6)  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=singvir23&theme=radical&margin-w=10&margin-h=10)  
-
 ---
 
-## 🌐 Explore More
-✨ Check out my portfolio for **featured projects & experience**:  
+## Explore More
+✨ See my portfolio for **featured projects & experience**:  
 - [TrestleIQ](https://www.viraajsingh.me/projects/trestleiq)  
 - [Digital Engagement Lab](https://www.viraajsingh.me/projects/digital-engagement-lab)  
 - [AI Music Notation Generator](https://www.viraajsingh.me/projects/ai-drum-beat-generator)  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 🌐 [Portfolio](https://www.viraajsingh.me)  
 💼 [LinkedIn](https://www.linkedin.com/in/viraaj-singh/)  
 📧 [Email](mailto:vsingh24@terpmail.umd.edu)  
 💻 [GitHub](https://github.com/singvir23)  
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=singvir23&color=blue&style=flat-square)
