@@ -17,13 +17,7 @@ Builder | Researcher | Problem Solver
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
-
----
-
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singvir23&show_icons=true&theme=radical&hide_rank=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singvir23&layout=compact&theme=radical)   
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) 
 
 ---
 
