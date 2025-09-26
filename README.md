@@ -1,7 +1,6 @@
 # Hi, I’m Viraaj
 
 Computer Science and Digital Storytelling @ University of Maryland (’27)  
-Builder | Researcher | Problem Solver  
 
 ---
 
