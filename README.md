@@ -21,8 +21,4 @@ Check out my portfolio for projects & experience:
 Portfolio: https://www.viraajsingh.me  
 LinkedIn: https://www.linkedin.com/in/viraaj-singh/  
 Email: vsingh24@terpmail.umd.edu  
-GitHub: https://github.com/singvir23  
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=singvir23&color=blue&style=flat-square)
+GitHub: https://github.com/singvir23
